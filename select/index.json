@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FaSHioN",
+  "base_artist": "CORTIS",
+  "createdAt": "2026-02-14T16:18:30.698910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Fashion Queen",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": true,
+      "path": "select/01_High_Fashion_Queen_The_Flying_Burrito_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Negative Fashion",
+      "artist": "Daniel Powter",
+      "has_synced": false,
+      "path": "select/02_Negative_Fashion_Daniel_Powter.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dedicated Follower of Fashion - Mono Mix",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/03_Dedicated_Follower_of_Fashion_-_Mono_Mix_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waterwings (And Other Pool Side Fashion Faux Pas)",
+      "artist": "Alexisonfire",
+      "has_synced": false,
+      "path": "select/04_Waterwings_(And_Other_Pool_Side_Fashion_Faux_Pas)_Alexisonfire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fashion",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Fashion_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fashion",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Fashion_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fashion",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Fashion_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fashion Nova Men (Lil Gotit feat. Foolio)",
+      "artist": "Lil Yachty feat. Lil Keed, Zaytoven, Lil Gotit & Foolio",
+      "has_synced": false,
+      "path": "select/08_Fashion_Nova_Men_(Lil_Gotit_feat._Foolio)_Lil_Yachty_feat._Lil_Keed,_Zaytoven,_Lil_Gotit_&_Foolio.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fashion Nova Men (feat. Foolio)",
+      "artist": "Lil Gotit & ZAYTOVEN",
+      "has_synced": false,
+      "path": "select/09_Fashion_Nova_Men_(feat._Foolio)_Lil_Gotit_&_ZAYTOVEN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Jesus + Amen Fashion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Black_Jesus_+_Amen_Fashion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Jesus - Amen Fashion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Black_Jesus_-_Amen_Fashion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fashion Of His Love",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Fashion_Of_His_Love_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fashion Of His Love (Fernando Garibay Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Fashion_Of_His_Love_(Fernando_Garibay_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fashion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/14_Fashion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fashion!",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Fashion!_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Suffer For Fashion",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/16_Suffer_For_Fashion_of_Montreal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FaSHioN",
+      "artist": "CORTIS",
+      "has_synced": false,
+      "path": "select/pl_01_FaSHioN_CORTIS.txt"
+    }
+  ]
+}
